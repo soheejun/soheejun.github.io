@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: SO-HEE JUN
+title: 
 subtitle: "SO-HEE JUN"
 email: gkgkthgml@gmail.com
 name: So Hee Jun 
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl:  # the subpath of your site, e.g. /blog/
 url: "http://soheejun.github.io" # the base hostname & protocol for your site
-cover: "/assets/KakaoTalk_20190623_143926032.jpg"
+cover: "/assets/KakaoTalk_20190623_143559119.jpg"
 logo: 
 
 # Build settings
